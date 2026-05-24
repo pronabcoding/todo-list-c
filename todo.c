@@ -66,7 +66,7 @@ void markCompleted()
 {
     if (taskCount == 0) 
     {
-        printf("\nNo tasks to mark as completed!\n");
+        printf("\n No tasks to mark as completed!\n");
         return;
     }
     
